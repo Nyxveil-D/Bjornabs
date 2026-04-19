@@ -13,6 +13,6 @@ I am an aspiring software developer with a growing focus on **backend developmen
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nyxveil-D&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nyxveil-D&icon=9&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
